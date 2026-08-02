@@ -1,0 +1,135 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://brand.felyalabs.com/brand-data/schemas/assets.schema.json",
+  "title": "FELYA LABS Approved Asset Manifest",
+  "description": "Schema for public, approved Brand Guide assets and their intended use.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "$schema",
+    "schemaVersion",
+    "version",
+    "updated",
+    "status",
+    "brand",
+    "baseUrl",
+    "rights",
+    "assets"
+  ],
+  "properties": {
+    "$schema": {
+      "type": "string",
+      "format": "uri"
+    },
+    "schemaVersion": {
+      "$ref": "#/$defs/semver"
+    },
+    "version": {
+      "$ref": "#/$defs/semver"
+    },
+    "updated": {
+      "type": "string",
+      "format": "date"
+    },
+    "status": {
+      "const": "canonical"
+    },
+    "brand": {
+      "const": "FELYA LABS"
+    },
+    "baseUrl": {
+      "type": "string",
+      "format": "uri"
+    },
+    "rights": {
+      "$ref": "#/$defs/nonEmptyString"
+    },
+    "assets": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "category",
+          "purpose",
+          "modes",
+          "canonicalFile",
+          "files",
+          "mediaType",
+          "status"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[a-z][a-z0-9.-]*$"
+          },
+          "category": {
+            "enum": [
+              "brand",
+              "hero",
+              "futures",
+              "campaign",
+              "social",
+              "explanatory",
+              "font",
+              "favicon"
+            ]
+          },
+          "purpose": {
+            "$ref": "#/$defs/nonEmptyString"
+          },
+          "modes": {
+            "type": "array",
+            "minItems": 1,
+            "uniqueItems": true,
+            "items": {
+              "enum": [
+                "light",
+                "dark",
+                "universal"
+              ]
+            }
+          },
+          "canonicalFile": {
+            "$ref": "#/$defs/publicPath"
+          },
+          "files": {
+            "type": "array",
+            "minItems": 1,
+            "uniqueItems": true,
+            "items": {
+              "$ref": "#/$defs/publicPath"
+            }
+          },
+          "mediaType": {
+            "type": "string",
+            "pattern": "^[a-z0-9.+-]+/[a-z0-9.+-]+$"
+          },
+          "status": {
+            "enum": [
+              "canonical",
+              "supporting",
+              "technical"
+            ]
+          }
+        }
+      }
+    }
+  },
+  "$defs": {
+    "semver": {
+      "type": "string",
+      "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+$"
+    },
+    "nonEmptyString": {
+      "type": "string",
+      "minLength": 1
+    },
+    "publicPath": {
+      "type": "string",
+      "pattern": "^/(assets/.+|favicon\\.ico)$"
+    }
+  }
+}

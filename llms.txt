@@ -1,0 +1,20 @@
+# FELYA LABS Brand Guide
+
+> The canonical public reference for FELYA LABS brand principles, visual identity, language and approved applications.
+
+Version 2.0.0, updated 2026-08-03. The explanatory guide is maintained in German; approved claims remain in English.
+
+## Primary references
+
+- [Human-readable Brand Guide](https://brand.felyalabs.com/): The visual guide and primary orientation for people.
+- [Canonical Markdown](https://brand.felyalabs.com/brand-data/guide.md): Token-efficient semantic guide for retrieval and language models.
+- [Design Tokens](https://brand.felyalabs.com/brand-data/tokens.json): DTCG 2025.10 presentation values for color, typography, spacing, radii and layout.
+- [Brand System](https://brand.felyalabs.com/brand-data/brand-system.json): Normative principles, logo rules, voice, imagery and approved claims.
+- [Approved Asset Manifest](https://brand.felyalabs.com/brand-data/assets.json): Canonical public assets, modes and intended uses.
+
+## Schemas
+
+- [Brand System Schema](https://brand.felyalabs.com/brand-data/schemas/brand-system.schema.json)
+- [Asset Manifest Schema](https://brand.felyalabs.com/brand-data/schemas/assets.schema.json)
+
+Use the structured sources for exact values and rules. Use the visual guide to evaluate hierarchy, composition and application quality. Unfinished concepts and internal notes are intentionally excluded from this public snapshot.

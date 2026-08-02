@@ -1,0 +1,417 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://brand.felyalabs.com/brand-data/schemas/brand-system.schema.json",
+  "title": "FELYA LABS Brand System",
+  "description": "Schema for normative, non-token brand rules and approved claims.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "$schema",
+    "schemaVersion",
+    "version",
+    "updated",
+    "status",
+    "brand",
+    "canonicalUrl",
+    "language",
+    "architecture",
+    "principles",
+    "logo",
+    "color",
+    "typography",
+    "form",
+    "imagery",
+    "voice",
+    "claims",
+    "governance",
+    "rights"
+  ],
+  "properties": {
+    "$schema": {
+      "type": "string",
+      "format": "uri"
+    },
+    "schemaVersion": {
+      "$ref": "#/$defs/semver"
+    },
+    "version": {
+      "$ref": "#/$defs/semver"
+    },
+    "updated": {
+      "type": "string",
+      "format": "date"
+    },
+    "status": {
+      "const": "canonical"
+    },
+    "brand": {
+      "const": "FELYA LABS"
+    },
+    "canonicalUrl": {
+      "type": "string",
+      "format": "uri"
+    },
+    "language": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "guide",
+        "approvedClaims"
+      ],
+      "properties": {
+        "guide": {
+          "type": "string",
+          "pattern": "^[a-z]{2}$"
+        },
+        "approvedClaims": {
+          "type": "string",
+          "pattern": "^[a-z]{2}$"
+        }
+      }
+    },
+    "architecture": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "masterBrand",
+        "featuredProduct",
+        "rule"
+      ],
+      "properties": {
+        "masterBrand": {
+          "const": "FELYA LABS"
+        },
+        "featuredProduct": {
+          "const": "PATON"
+        },
+        "rule": {
+          "$ref": "#/$defs/nonEmptyString"
+        }
+      }
+    },
+    "principles": {
+      "type": "array",
+      "minItems": 4,
+      "uniqueItems": true,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "title",
+          "rule"
+        ],
+        "properties": {
+          "id": {
+            "$ref": "#/$defs/identifier"
+          },
+          "title": {
+            "$ref": "#/$defs/nonEmptyString"
+          },
+          "rule": {
+            "$ref": "#/$defs/nonEmptyString"
+          }
+        }
+      }
+    },
+    "logo": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "productionMode",
+        "minimumWidthPx",
+        "clearspaceRatio",
+        "symbolOnlyFor",
+        "mustNot",
+        "anatomyColorRule"
+      ],
+      "properties": {
+        "productionMode": {
+          "const": "monochrome"
+        },
+        "minimumWidthPx": {
+          "type": "number",
+          "exclusiveMinimum": 0
+        },
+        "clearspaceRatio": {
+          "type": "number",
+          "exclusiveMinimum": 0
+        },
+        "symbolOnlyFor": {
+          "$ref": "#/$defs/stringList"
+        },
+        "mustNot": {
+          "$ref": "#/$defs/stringList"
+        },
+        "anatomyColorRule": {
+          "$ref": "#/$defs/nonEmptyString"
+        }
+      }
+    },
+    "color": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "modes",
+        "modeRelationship",
+        "neutralPriority",
+        "productAccent",
+        "strongAccent",
+        "rareSignal",
+        "restrictions"
+      ],
+      "properties": {
+        "modes": {
+          "type": "array",
+          "prefixItems": [
+            {
+              "const": "light"
+            },
+            {
+              "const": "dark"
+            }
+          ],
+          "items": false
+        },
+        "modeRelationship": {
+          "const": "equal-authority"
+        },
+        "neutralPriority": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "productAccent": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "strongAccent": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "rareSignal": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "restrictions": {
+          "$ref": "#/$defs/stringList"
+        }
+      }
+    },
+    "typography": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "primaryTypeface",
+        "fallback",
+        "claimsMaxLines",
+        "roles"
+      ],
+      "properties": {
+        "primaryTypeface": {
+          "const": "Manrope"
+        },
+        "fallback": {
+          "$ref": "#/$defs/stringList"
+        },
+        "claimsMaxLines": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 2
+        },
+        "roles": {
+          "$ref": "#/$defs/stringList"
+        }
+      }
+    },
+    "form": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "preferredCornerShape",
+        "fallback",
+        "circleRule",
+        "scalePx"
+      ],
+      "properties": {
+        "preferredCornerShape": {
+          "const": "squircle"
+        },
+        "fallback": {
+          "const": "border-radius"
+        },
+        "circleRule": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "scalePx": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "small",
+            "medium",
+            "large",
+            "surface"
+          ],
+          "properties": {
+            "small": {
+              "type": "number",
+              "exclusiveMinimum": 0
+            },
+            "medium": {
+              "type": "number",
+              "exclusiveMinimum": 0
+            },
+            "large": {
+              "type": "number",
+              "exclusiveMinimum": 0
+            },
+            "surface": {
+              "type": "number",
+              "exclusiveMinimum": 0
+            }
+          }
+        }
+      }
+    },
+    "imagery": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "modes",
+        "sharedRules"
+      ],
+      "properties": {
+        "modes": {
+          "type": "array",
+          "minItems": 2,
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "id",
+              "rule"
+            ],
+            "properties": {
+              "id": {
+                "$ref": "#/$defs/identifier"
+              },
+              "rule": {
+                "$ref": "#/$defs/nonEmptyString"
+              }
+            }
+          }
+        },
+        "sharedRules": {
+          "$ref": "#/$defs/stringList"
+        }
+      }
+    },
+    "voice": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "attributes",
+        "use",
+        "avoid"
+      ],
+      "properties": {
+        "attributes": {
+          "$ref": "#/$defs/stringList"
+        },
+        "use": {
+          "$ref": "#/$defs/stringList"
+        },
+        "avoid": {
+          "$ref": "#/$defs/stringList"
+        }
+      }
+    },
+    "claims": {
+      "type": "array",
+      "minItems": 3,
+      "maxItems": 3,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "role",
+          "text",
+          "lines"
+        ],
+        "properties": {
+          "role": {
+            "enum": [
+              "product",
+              "presence",
+              "engineering"
+            ]
+          },
+          "text": {
+            "$ref": "#/$defs/nonEmptyString"
+          },
+          "lines": {
+            "type": "array",
+            "minItems": 1,
+            "maxItems": 2,
+            "items": {
+              "$ref": "#/$defs/nonEmptyString"
+            }
+          }
+        }
+      }
+    },
+    "governance": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "sources",
+        "publicationRule",
+        "exclude"
+      ],
+      "properties": {
+        "sources": {
+          "$ref": "#/$defs/stringList"
+        },
+        "publicationRule": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "exclude": {
+          "$ref": "#/$defs/stringList"
+        }
+      }
+    },
+    "rights": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "holder",
+        "notice"
+      ],
+      "properties": {
+        "holder": {
+          "const": "FELYA LABS"
+        },
+        "notice": {
+          "$ref": "#/$defs/nonEmptyString"
+        }
+      }
+    }
+  },
+  "$defs": {
+    "semver": {
+      "type": "string",
+      "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+$"
+    },
+    "identifier": {
+      "type": "string",
+      "pattern": "^[a-z][a-z0-9-]*$"
+    },
+    "nonEmptyString": {
+      "type": "string",
+      "minLength": 1
+    },
+    "stringList": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {
+        "$ref": "#/$defs/nonEmptyString"
+      }
+    }
+  }
+}

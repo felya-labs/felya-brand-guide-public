@@ -1,0 +1,180 @@
+{
+  "$schema": "https://brand.felyalabs.com/brand-data/schemas/brand-system.schema.json",
+  "schemaVersion": "1.0.0",
+  "version": "2.0.0",
+  "updated": "2026-08-03",
+  "status": "canonical",
+  "brand": "FELYA LABS",
+  "canonicalUrl": "https://brand.felyalabs.com/",
+  "language": {
+    "guide": "de",
+    "approvedClaims": "en"
+  },
+  "architecture": {
+    "masterBrand": "FELYA LABS",
+    "featuredProduct": "PATON",
+    "rule": "FELYA LABS is the company. PATON is the product and may use functional blue accents. The FELYA LABS wordmark remains monochrome."
+  },
+  "principles": [
+    {
+      "id": "human-first",
+      "title": "Human first",
+      "rule": "The human is the source, measure and acting agent. Technology extends human capability; it does not replace the human in the story."
+    },
+    {
+      "id": "physical-not-abstract",
+      "title": "Physical, not abstract",
+      "rule": "Show mechanics, touch and real hardware. Avoid generic technology symbols and decorative futurism."
+    },
+    {
+      "id": "calm-confidence",
+      "title": "Calm confidence",
+      "rule": "Use strong hierarchy, concise statements and deliberate negative space. Authority comes from clarity, not visual volume."
+    },
+    {
+      "id": "engineering-is-evidence",
+      "title": "Engineering is evidence",
+      "rule": "Prototypes, mechanisms and verifiable effects support every claim."
+    }
+  ],
+  "logo": {
+    "productionMode": "monochrome",
+    "minimumWidthPx": 80,
+    "clearspaceRatio": 0.5,
+    "symbolOnlyFor": [
+      "icons",
+      "smallest system surfaces"
+    ],
+    "mustNot": [
+      "stretch",
+      "rotate",
+      "recolor",
+      "add effects"
+    ],
+    "anatomyColorRule": "Anatomy colors explain meaning only. Production logos stay monochrome."
+  },
+  "color": {
+    "modes": [
+      "light",
+      "dark"
+    ],
+    "modeRelationship": "equal-authority",
+    "neutralPriority": "Neutral colors dominate the composition.",
+    "productAccent": "PATON Blue explains product, function, focus and active states.",
+    "strongAccent": "Blue Strong is reserved for short labels and high-contrast functional emphasis.",
+    "rareSignal": "Signal Gold marks an exceptional event or explains the logo horizon. It is not a general accent.",
+    "restrictions": [
+      "Do not mechanically invert Light Mode values to create Dark Mode.",
+      "Do not apply PATON Blue or Signal Gold to the FELYA LABS wordmark."
+    ]
+  },
+  "typography": {
+    "primaryTypeface": "Manrope",
+    "fallback": [
+      "system-ui",
+      "sans-serif"
+    ],
+    "claimsMaxLines": 2,
+    "roles": [
+      "display",
+      "section-heading",
+      "component-heading",
+      "lead",
+      "body",
+      "supporting",
+      "eyebrow",
+      "ui-label"
+    ]
+  },
+  "form": {
+    "preferredCornerShape": "squircle",
+    "fallback": "border-radius",
+    "circleRule": "Circles remain true circles.",
+    "scalePx": {
+      "small": 8,
+      "medium": 14,
+      "large": 24,
+      "surface": 32
+    }
+  },
+  "imagery": {
+    "modes": [
+      {
+        "id": "product-evidence",
+        "rule": "Show real hardware, readable mechanisms and honest materials. Do not hide engineering beneath atmospheric effects."
+      },
+      {
+        "id": "technical-imagination",
+        "rule": "Use blueprint-like linework to explain a specific relationship between people and technology. Keep one scenario, one focal point and deliberate negative space."
+      }
+    ],
+    "sharedRules": [
+      "Start with the human context.",
+      "Keep the physical mechanism understandable.",
+      "Use composition to explain possibility, not to decorate empty space.",
+      "Fog follows the subject or functional focal point and is never a generic vignette."
+    ]
+  },
+  "voice": {
+    "attributes": [
+      "concise",
+      "active",
+      "physical",
+      "evidence-led"
+    ],
+    "use": [
+      "Start with the person or action.",
+      "Describe what people and machines do.",
+      "Prefer concrete verbs and observable effects."
+    ],
+    "avoid": [
+      "superlatives",
+      "generic startup language",
+      "unsupported promises"
+    ]
+  },
+  "claims": [
+    {
+      "role": "product",
+      "text": "Your hands. Anywhere on Earth.",
+      "lines": [
+        "Your hands.",
+        "Anywhere on Earth."
+      ]
+    },
+    {
+      "role": "presence",
+      "text": "Be there. From anywhere.",
+      "lines": [
+        "Be there.",
+        "From anywhere."
+      ]
+    },
+    {
+      "role": "engineering",
+      "text": "Craft. Connected.",
+      "lines": [
+        "Craft.",
+        "Connected."
+      ]
+    }
+  ],
+  "governance": {
+    "sources": [
+      "Brand Guide",
+      "Design Tokens",
+      "Approved Assets"
+    ],
+    "publicationRule": "New brand decisions are documented in the private canonical source first, reflected in tokens where applicable and only then exported into public snapshots.",
+    "exclude": [
+      "unfinished concepts",
+      "decorative explorations",
+      "internal notes",
+      "unapproved assets"
+    ]
+  },
+  "rights": {
+    "holder": "FELYA LABS",
+    "notice": "Brand materials are provided as an authoritative reference. Usage remains subject to FELYA LABS approval."
+  }
+}

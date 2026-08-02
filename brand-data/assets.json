@@ -1,0 +1,190 @@
+{
+  "$schema": "https://brand.felyalabs.com/brand-data/schemas/assets.schema.json",
+  "schemaVersion": "1.0.0",
+  "version": "2.0.0",
+  "updated": "2026-08-03",
+  "status": "canonical",
+  "brand": "FELYA LABS",
+  "baseUrl": "https://brand.felyalabs.com",
+  "rights": "Brand assets are authoritative references. External production use requires FELYA LABS approval.",
+  "assets": [
+    {
+      "id": "brand.wordmark.monochrome",
+      "category": "brand",
+      "purpose": "Primary FELYA LABS wordmark used monochromatically on light and dark surfaces.",
+      "modes": [
+        "light",
+        "dark"
+      ],
+      "canonicalFile": "/assets/brand/felya-labs-wordmark-white.webp",
+      "files": [
+        "/assets/brand/felya-labs-wordmark-white.webp"
+      ],
+      "mediaType": "image/webp",
+      "status": "canonical"
+    },
+    {
+      "id": "hero.paton-glove.light",
+      "category": "hero",
+      "purpose": "Primary PATON glove rendering for Light Mode hero compositions.",
+      "modes": [
+        "light"
+      ],
+      "canonicalFile": "/assets/hero/paton-glove-light-premium-v1-1200.webp",
+      "files": [
+        "/assets/hero/paton-glove-light-premium-v1-1200.webp",
+        "/assets/hero/paton-glove-light-premium-v1-960.webp",
+        "/assets/hero/paton-glove-light-premium-v1-768.webp",
+        "/assets/hero/paton-glove-light-premium-v1-640.webp"
+      ],
+      "mediaType": "image/webp",
+      "status": "canonical"
+    },
+    {
+      "id": "hero.paton-glove.dark",
+      "category": "hero",
+      "purpose": "Primary PATON glove rendering for Dark Mode hero compositions.",
+      "modes": [
+        "dark"
+      ],
+      "canonicalFile": "/assets/hero/paton-glove-dark-premium-v1-1200.webp",
+      "files": [
+        "/assets/hero/paton-glove-dark-premium-v1-1200.webp",
+        "/assets/hero/paton-glove-dark-premium-v1-960.webp",
+        "/assets/hero/paton-glove-dark-premium-v1-768.webp",
+        "/assets/hero/paton-glove-dark-premium-v1-640.webp"
+      ],
+      "mediaType": "image/webp",
+      "status": "canonical"
+    },
+    {
+      "id": "futures.operator.light",
+      "category": "futures",
+      "purpose": "Technical-imagination operator drawing for Light Mode.",
+      "modes": [
+        "light"
+      ],
+      "canonicalFile": "/assets/futures/operator-vr-paton-glove-white.webp",
+      "files": [
+        "/assets/futures/operator-vr-paton-glove-white.webp"
+      ],
+      "mediaType": "image/webp",
+      "status": "canonical"
+    },
+    {
+      "id": "futures.operator.dark",
+      "category": "futures",
+      "purpose": "Technical-imagination operator drawing for Dark Mode.",
+      "modes": [
+        "dark"
+      ],
+      "canonicalFile": "/assets/futures/operator-vr-paton-glove-black.webp",
+      "files": [
+        "/assets/futures/operator-vr-paton-glove-black.webp"
+      ],
+      "mediaType": "image/webp",
+      "status": "canonical"
+    },
+    {
+      "id": "campaign.presence.light",
+      "category": "campaign",
+      "purpose": "Approved Light Mode campaign banner for the presence claim.",
+      "modes": [
+        "light"
+      ],
+      "canonicalFile": "/assets/campaigns/linkedin-banner-light-be-there-from-anywhere.png",
+      "files": [
+        "/assets/campaigns/linkedin-banner-light-be-there-from-anywhere.png"
+      ],
+      "mediaType": "image/png",
+      "status": "canonical"
+    },
+    {
+      "id": "campaign.engineering.dark",
+      "category": "campaign",
+      "purpose": "Approved Dark Mode campaign banner for the engineering claim.",
+      "modes": [
+        "dark"
+      ],
+      "canonicalFile": "/assets/campaigns/linkedin-banner-dark-craft-connected.png",
+      "files": [
+        "/assets/campaigns/linkedin-banner-dark-craft-connected.png"
+      ],
+      "mediaType": "image/png",
+      "status": "canonical"
+    },
+    {
+      "id": "social.brand-guide.preview",
+      "category": "social",
+      "purpose": "Canonical Open Graph preview for the Brand Guide.",
+      "modes": [
+        "dark"
+      ],
+      "canonicalFile": "/assets/social/felya-labs-brand-guide-social-preview-1200x630.jpg",
+      "files": [
+        "/assets/social/felya-labs-brand-guide-social-preview-1200x630.jpg"
+      ],
+      "mediaType": "image/jpeg",
+      "status": "canonical"
+    },
+    {
+      "id": "logo.anatomy",
+      "category": "explanatory",
+      "purpose": "Explanatory layers used only to teach the anatomy of the logo.",
+      "modes": [
+        "light",
+        "dark"
+      ],
+      "canonicalFile": "/assets/logo-anatomy/full-mark-muted.png",
+      "files": [
+        "/assets/logo-anatomy/full-mark-muted.png",
+        "/assets/logo-anatomy/point-blue.png",
+        "/assets/logo-anatomy/circle-blue.png",
+        "/assets/logo-anatomy/flame-blue.png",
+        "/assets/logo-anatomy/flame-gold.png"
+      ],
+      "mediaType": "image/png",
+      "status": "supporting"
+    },
+    {
+      "id": "font.manrope.variable",
+      "category": "font",
+      "purpose": "Self-hosted primary typeface and its license.",
+      "modes": [
+        "universal"
+      ],
+      "canonicalFile": "/assets/fonts/manrope-variable.ttf",
+      "files": [
+        "/assets/fonts/manrope-variable.ttf",
+        "/assets/fonts/OFL.txt"
+      ],
+      "mediaType": "font/ttf",
+      "status": "canonical"
+    },
+    {
+      "id": "favicon.brand-guide",
+      "category": "favicon",
+      "purpose": "Inverted Brand Guide application icon family.",
+      "modes": [
+        "universal"
+      ],
+      "canonicalFile": "/assets/favicon/android-chrome-512x512.png",
+      "files": [
+        "/favicon.ico",
+        "/assets/favicon/favicon.ico",
+        "/assets/favicon/favicon-16x16.png",
+        "/assets/favicon/favicon-32x32.png",
+        "/assets/favicon/favicon-48x48.png",
+        "/assets/favicon/favicon-96x96.png",
+        "/assets/favicon/favicon-256x256.png",
+        "/assets/favicon/apple-touch-icon.png",
+        "/assets/favicon/android-chrome-192x192.png",
+        "/assets/favicon/android-chrome-512x512.png",
+        "/assets/favicon/android-chrome-maskable-512x512.png",
+        "/assets/favicon/site.webmanifest"
+      ],
+      "mediaType": "image/png",
+      "status": "technical"
+    }
+  ]
+}

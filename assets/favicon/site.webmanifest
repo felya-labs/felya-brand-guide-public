@@ -1,0 +1,30 @@
+{
+  "name": "FELYA LABS Brand Guide",
+  "short_name": "Brand Guide",
+  "description": "The canonical FELYA LABS Brand Guide.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "android-chrome-192x192.png?v=brand-guide-dark",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "android-chrome-512x512.png?v=brand-guide-dark",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "android-chrome-maskable-512x512.png?v=brand-guide-dark",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

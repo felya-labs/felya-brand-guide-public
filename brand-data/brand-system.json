@@ -4,16 +4,16 @@
   "version": "2.0.0",
   "updated": "2026-08-03",
   "status": "canonical",
-  "brand": "FELYA LABS",
+  "brand": "FELYA",
   "canonicalUrl": "https://brand.felyalabs.com/",
   "language": {
     "guide": "de",
     "approvedClaims": "en"
   },
   "architecture": {
-    "masterBrand": "FELYA LABS",
+    "masterBrand": "FELYA",
     "featuredProduct": "PATON",
-    "rule": "FELYA LABS is the company. PATON is the product and may use functional blue accents. The FELYA LABS wordmark remains monochrome."
+    "rule": "FELYA is the company. PATON is the product and may use functional blue accents. The FELYA wordmark remains monochrome."
   },
   "principles": [
     {
@@ -65,7 +65,7 @@
     "rareSignal": "Signal Gold marks an exceptional event or explains the logo horizon. It is not a general accent.",
     "restrictions": [
       "Do not mechanically invert Light Mode values to create Dark Mode.",
-      "Do not apply PATON Blue or Signal Gold to the FELYA LABS wordmark."
+      "Do not apply PATON Blue or Signal Gold to the FELYA wordmark."
     ]
   },
   "typography": {
@@ -174,7 +174,7 @@
     ]
   },
   "rights": {
-    "holder": "FELYA LABS",
-    "notice": "Brand materials are provided as an authoritative reference. Usage remains subject to FELYA LABS approval."
+    "holder": "FELYA",
+    "notice": "Brand materials are provided as an authoritative reference. Usage remains subject to FELYA approval."
   }
 }

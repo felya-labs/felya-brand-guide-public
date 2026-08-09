@@ -4,14 +4,14 @@
   "version": "2.0.0",
   "updated": "2026-08-03",
   "status": "canonical",
-  "brand": "FELYA LABS",
+  "brand": "FELYA",
   "baseUrl": "https://brand.felyalabs.com",
-  "rights": "Brand assets are authoritative references. External production use requires FELYA LABS approval.",
+  "rights": "Brand assets are authoritative references. External production use requires FELYA approval.",
   "assets": [
     {
       "id": "brand.wordmark.monochrome",
       "category": "brand",
-      "purpose": "Primary FELYA LABS wordmark used monochromatically on light and dark surfaces.",
+      "purpose": "Primary FELYA wordmark used monochromatically on light and dark surfaces.",
       "modes": [
         "light",
         "dark"

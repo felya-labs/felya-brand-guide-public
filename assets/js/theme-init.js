@@ -1,7 +1,7 @@
 try {
   const darkHourStart = 19;
   const darkHourEnd = 7;
-  const storedTheme = window.localStorage.getItem('felya-labs-theme');
+  const storedTheme = window.localStorage.getItem('felya-theme');
 
   if (storedTheme === 'dark' || storedTheme === 'light') {
     document.documentElement.dataset.theme = storedTheme;

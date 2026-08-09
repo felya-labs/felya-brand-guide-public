@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://brand.felyalabs.com/brand-data/schemas/brand-system.schema.json",
-  "title": "FELYA LABS Brand System",
+  "$id": "https://brand.felya.com/brand-data/schemas/brand-system.schema.json",
+  "title": "FELYA Brand System",
   "description": "Schema for normative, non-token brand rules and approved claims.",
   "type": "object",
   "additionalProperties": false,
@@ -45,7 +45,7 @@
       "const": "canonical"
     },
     "brand": {
-      "const": "FELYA LABS"
+      "const": "FELYA"
     },
     "canonicalUrl": {
       "type": "string",
@@ -79,7 +79,7 @@
       ],
       "properties": {
         "masterBrand": {
-          "const": "FELYA LABS"
+          "const": "FELYA"
         },
         "featuredProduct": {
           "const": "PATON"
@@ -384,7 +384,7 @@
       ],
       "properties": {
         "holder": {
-          "const": "FELYA LABS"
+          "const": "FELYA"
         },
         "notice": {
           "$ref": "#/$defs/nonEmptyString"

@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://brand.felyalabs.com/brand-data/schemas/assets.schema.json",
-  "title": "FELYA LABS Approved Asset Manifest",
+  "$id": "https://brand.felya.com/brand-data/schemas/assets.schema.json",
+  "title": "FELYA Approved Asset Manifest",
   "description": "Schema for public, approved Brand Guide assets and their intended use.",
   "type": "object",
   "additionalProperties": false,
@@ -35,7 +35,7 @@
       "const": "canonical"
     },
     "brand": {
-      "const": "FELYA LABS"
+      "const": "FELYA"
     },
     "baseUrl": {
       "type": "string",

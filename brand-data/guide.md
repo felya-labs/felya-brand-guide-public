@@ -1,4 +1,4 @@
-# FELYA LABS Brand Guide
+# FELYA Brand Guide
 
 **Status:** Canonical source
 
@@ -6,14 +6,14 @@
 
 **Updated:** August 2026
 
-This document defines the essential identity of FELYA LABS. The browser guide is its visual expression. The public Brand Data endpoints provide approved presentation values, normative rules and asset references in machine-readable form.
+This document defines the essential identity of FELYA. The browser guide is its visual expression. The public Brand Data endpoints provide approved presentation values, normative rules and asset references in machine-readable form.
 
 ## Brand architecture
 
-- **Master brand:** FELYA LABS
+- **Master brand:** FELYA
 - **Featured product:** PATON
 
-FELYA LABS is the company. PATON is the product and may use functional blue accents. The FELYA LABS wordmark remains monochrome.
+FELYA is the company. PATON is the product and may use functional blue accents. The FELYA wordmark remains monochrome.
 
 ## Principles
 
@@ -59,7 +59,7 @@ Light and Dark Mode carry equal authority and use the same hierarchy. Calibrate 
 - PATON Blue explains product, function, focus and active states.
 - Strong Blue is reserved for short labels and high-contrast functional emphasis.
 - Signal Gold is rare. It marks an exceptional event or explains the logo horizon; it is not a general accent.
-- Do not apply PATON Blue or Signal Gold to the FELYA LABS wordmark.
+- Do not apply PATON Blue or Signal Gold to the FELYA wordmark.
 
 The exact approved values are published at `/brand-data/tokens.json`.
 
@@ -78,7 +78,7 @@ Continuous corners soften technical surfaces without making them playful:
 - A standard radius inserts a fixed quarter circle between two straight edges. The direction is tangent at both joins, but curvature changes abruptly.
 - A continuous corner varies curvature along the path so it approaches zero at the straight edges. The transition reads as one uninterrupted silhouette.
 - Radius controls the size of the corner area. Corner shape controls how curvature travels through that area.
-- FELYA LABS uses a squircle profile as its continuous-corner shape, with `border-radius` retained as the stable fallback.
+- FELYA uses a squircle profile as its continuous-corner shape, with `border-radius` retained as the stable fallback.
 
 - Small: 8 px for compact inline actions.
 - Medium: 14 px for controls and small surfaces.

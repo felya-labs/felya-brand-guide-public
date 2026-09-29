@@ -1,0 +1,496 @@
+{
+  "sourceCommit": "8a59361c0d3e35c990e32fc3ff75da5040933d7b",
+  "sourceDirty": false,
+  "files": [
+    {
+      "path": "01_Logo Master/01 Pyra Black Transparent/felya-horizontal-black-transparent.png",
+      "sha256": "8fb4ea1848e34ec08a61a06165589594c6288100d0c1c52d2bb09fe244e081ec",
+      "bytes": 44424
+    },
+    {
+      "path": "01_Logo Master/01 Pyra Black Transparent/pyra-black-transparent.png",
+      "sha256": "23cb791bd1c3a65bddaf525abe03791425380cec7e0cf84b9576be08163d858c",
+      "bytes": 75983
+    },
+    {
+      "path": "01_Logo Master/02 Pyra White Transparent/felya-horizontal-white-transparent.png",
+      "sha256": "47ce78e24e4acc4fb0466259f3c9ede5097483e9a12ca07111a7ccb1eada9c0b",
+      "bytes": 38701
+    },
+    {
+      "path": "01_Logo Master/02 Pyra White Transparent/felya-vertical-white-transparent.png",
+      "sha256": "3f69e5d5426d24a39cf9e9abc9732f3f90d3f1121635728372b84c965586c10d",
+      "bytes": 55150
+    },
+    {
+      "path": "01_Logo Master/02 Pyra White Transparent/pyra-white-transparent.png",
+      "sha256": "ef20f7cf7935c701c09ab78cf0683447ec4b87c7b3da11b84f0c3cc88fd05b20",
+      "bytes": 48723
+    },
+    {
+      "path": "01_Logo Master/05 Pyra SVG/felya-horizontal.svg",
+      "sha256": "6b79774f998f2c8c5d01eb2dc499a00232d27a655ae44898f910c7a1bb195cdf",
+      "bytes": 2770
+    },
+    {
+      "path": "02_Profilbilder/Teammember/Jakob_Pyra.png",
+      "sha256": "b1fb214faedfbbef9efd86e69f44b4e8296bd3629ad18ebbe721272400057e4b",
+      "bytes": 2070624
+    },
+    {
+      "path": "02_Profilbilder/Teammember/Madina_Pyra.png",
+      "sha256": "f5b3375e4225dd07d0fd9a08830b232c80891a1de3a39c01c0f0ae3a1526d125",
+      "bytes": 1761067
+    },
+    {
+      "path": "02_Profilbilder/Teammember/Mario_Pyra.png",
+      "sha256": "636b01aa241b83bc89f7260743c942dc96d2589a74b788117cf7c1dd0c8ee616",
+      "bytes": 2060108
+    },
+    {
+      "path": "02_Profilbilder/Teammember/Philipp_Pyra.png",
+      "sha256": "0ad7a85ab2d17d66b43f2118a6c460ba895c4fd74833bf33eadd74f5de200abf",
+      "bytes": 2031655
+    },
+    {
+      "path": "02_Profilbilder/Teammember/Ulrich_Pyra.png",
+      "sha256": "07551249505b67532889d293db3e5755b9de8546a248c5e44228f18edc93dbe3",
+      "bytes": 1855964
+    },
+    {
+      "path": "03_Logoanimationen/01_Pyra/Pyra_Blueprint_Dark.html",
+      "sha256": "22d5bbbbd50d54951fa75743708988b79a739eabc04d6f5763589061bdb09eb4",
+      "bytes": 245478
+    },
+    {
+      "path": "03_Logoanimationen/01_Pyra/Pyra_Blueprint_Light.html",
+      "sha256": "8bc0b3c0d5c993e530f27ba52215457afbf53d6c39eff6a6de8676cd398a7946",
+      "bytes": 245399
+    },
+    {
+      "path": "03_Logoanimationen/01_Pyra/Pyra_Identity_Construction_01.webm",
+      "sha256": "bd91458dfcfb8e0aa3d4a801b03bea76f4de1d7e00851157ec00c82f0157dc85",
+      "bytes": 1279035
+    },
+    {
+      "path": "03_Logoanimationen/01_Pyra/Video_Pruefung_389.png",
+      "sha256": "6efd16e6aa2ab30c7947d0c9b821d970ca3817d3b8272b6ca35230023a319a50",
+      "bytes": 93276
+    },
+    {
+      "path": "03_Logoanimationen/02_Wortmarke/FELYA_Wordmark_Construction_01.html",
+      "sha256": "4fd4e8b48dc0d0152b2976f0cd5a0b80c7003d4c26608b2b7dba88f96cd06e98",
+      "bytes": 245207
+    },
+    {
+      "path": "03_Logoanimationen/03_Kombination/FELYA_Complete_Identity_Dark.webm",
+      "sha256": "7e3a69ad4b6bc4815c1375a91dd33d1326cec4fb6bf5bd6129e211ccc3358e4b",
+      "bytes": 3639487
+    },
+    {
+      "path": "03_Logoanimationen/03_Kombination/FELYA_Complete_Identity_Dark_Poster.png",
+      "sha256": "0d12c4fadef60ba7c5e6105a056c8675ae730cc83abd03f5dd2df7eb94831398",
+      "bytes": 135632
+    },
+    {
+      "path": "04_Logo Konstruktion/Pyra_Konstruktion_Fuellung_Korrigiert.png",
+      "sha256": "aa3323bf556744dc60fe2df548ee2b0a2d047e28785dd4d98ba3519f06978d2b",
+      "bytes": 1155844
+    },
+    {
+      "path": "05_Patterns/01_monochrome/grids-and-spirals/V4_Pyra_Pattern_01_A4_Hochkant_Schwarz_Weiss.png",
+      "sha256": "605bb491707fedbf54a4c40e1e6f34568c456f2b24069afdee7098d39c1f0ff8",
+      "bytes": 234446
+    },
+    {
+      "path": "05_Patterns/01_monochrome/grids-and-spirals/V4_Pyra_Pattern_02_Dicht_A4.png",
+      "sha256": "17341844a4e05d3c9903985ee0c207f07d1182905ff028c5f2940db28af1f370",
+      "bytes": 282520
+    },
+    {
+      "path": "05_Patterns/01_monochrome/grids-and-spirals/V4_Pyra_Pattern_03_Rotation_A4.png",
+      "sha256": "9616802ebff01026db7d25fef6dfa79df29a910c1f59e17d9383fe6d7dd3bafa",
+      "bytes": 353073
+    },
+    {
+      "path": "05_Patterns/01_monochrome/grids-and-spirals/V4_Pyra_Pattern_04_Spirale_A4.png",
+      "sha256": "bf8d9f62f13001d292d70aa8b1fd03ff398537b379ba231cbe96f2b0a9586fab",
+      "bytes": 1016477
+    },
+    {
+      "path": "05_Patterns/01_monochrome/grids-and-spirals/V4_Pyra_Pattern_05_Spirale_Zentrum_A4.png",
+      "sha256": "5a0e7da3408d90e505b708d85198797785d259b62139b9b4a372e3be8177568f",
+      "bytes": 1049880
+    },
+    {
+      "path": "05_Patterns/01_monochrome/grids-and-spirals/V4_Pyra_Pattern_06_Spirale_Fliessender_Start_A4.png",
+      "sha256": "0d2231aece476e81feabc0abbc7a4c11c83b383e39ab3be498ee517b5b2a95da",
+      "bytes": 874025
+    },
+    {
+      "path": "05_Patterns/01_monochrome/grids-and-spirals/V4_Pyra_Pattern_07_Spirale_Kompakt_A4.png",
+      "sha256": "8614c7eae796ff9bff2fe368edbef2b2a034fff2da89beb915d035ea13bb593e",
+      "bytes": 1202999
+    },
+    {
+      "path": "05_Patterns/01_monochrome/grids-and-spirals/V4_Pyra_Pattern_08_Kreisrhythmus_A4.png",
+      "sha256": "d00b1d573388f47b2954fa7c3a4f0fe510edc70f1cd2fe56bee5cd656a9ae601",
+      "bytes": 1264025
+    },
+    {
+      "path": "05_Patterns/01_monochrome/groups/V4_Pyra_Pattern_09_Vierergruppen_Rekonstruktion_A4.png",
+      "sha256": "88acb88d8834060b8dd36e0046bfcdf149b07e7d0afb999813961b4b43ff1e07",
+      "bytes": 322071
+    },
+    {
+      "path": "05_Patterns/01_monochrome/groups/V4_Pyra_Pattern_10_Dreiergruppen_A4.png",
+      "sha256": "ec22c8343a98674cb66dc7dcbf77cd7c2423237d7c48a5b13def7fa383986ae1",
+      "bytes": 257457
+    },
+    {
+      "path": "05_Patterns/01_monochrome/groups/V4_Pyra_Pattern_11_Sechser_Rosetten_A4.png",
+      "sha256": "c0fa2fb653cb90360f347623a90a89931344712b65ad1b4788b307c631dbf863",
+      "bytes": 339136
+    },
+    {
+      "path": "05_Patterns/01_monochrome/groups/V4_Pyra_Pattern_12_Freie_Streuung_A4.png",
+      "sha256": "1cca0d715e8051d96e48e47740fbc750220960c753ce60f6053ab46abe03c5d8",
+      "bytes": 924424
+    },
+    {
+      "path": "05_Patterns/01_monochrome/groups/V4_Pyra_Pattern_13_Organische_Inseln_A4.png",
+      "sha256": "14a18003e6132c78aa1f1726ab5b05220fc72990d74b1a2d90e149512b6095a5",
+      "bytes": 672730
+    },
+    {
+      "path": "05_Patterns/01_monochrome/groups/V4_Pyra_Pattern_14_Wellenbaender_A4.png",
+      "sha256": "31711083c61d74d48b21b5384180e14d95fac046daffd34bc9438da5109fcb39",
+      "bytes": 1071310
+    },
+    {
+      "path": "05_Patterns/01_monochrome/waves-and-experiments/V4_Pyra_15_Parallele_Wellen_A4.png",
+      "sha256": "8c0a214b96c9b2077fe2f723309ffb18c075e8b9969d8502b8660345d45ec017",
+      "bytes": 1199768
+    },
+    {
+      "path": "05_Patterns/01_monochrome/waves-and-experiments/V4_Pyra_16_Vertikale_Stroemung_A4.png",
+      "sha256": "37df330bedfd40f99c83e9e6f24449e228a48f9371eaa9e04cb1e6e9fecb05c5",
+      "bytes": 349360
+    },
+    {
+      "path": "05_Patterns/01_monochrome/waves-and-experiments/V4_Pyra_17_Diagonale_Brandung_A4.png",
+      "sha256": "e7d2965068c738a867fb7865d505dc4d814ff9d1aec263b9eb829e3ba93b41b2",
+      "bytes": 1066826
+    },
+    {
+      "path": "05_Patterns/01_monochrome/waves-and-experiments/V4_Pyra_18_Phasenwellen_A4.png",
+      "sha256": "abe51f9fe33ef9e5fe635fe931d1cbc8b0f2bdcb7b66a228878ba4280fd8dd7c",
+      "bytes": 1007776
+    },
+    {
+      "path": "05_Patterns/01_monochrome/waves-and-experiments/V4_Pyra_19_Pulsierende_Wellen_A4.png",
+      "sha256": "136abce2fc35352a1799fd803be789526c862a7bdaf82ad311e870c22c5bd645",
+      "bytes": 1131494
+    },
+    {
+      "path": "05_Patterns/01_monochrome/waves-and-experiments/V4_Pyra_20_Organische_Stroemung_A4.png",
+      "sha256": "d73df1295a14287858218ba899b4b7f7b35f86463242ba9dc2d0384631143a19",
+      "bytes": 1023082
+    },
+    {
+      "path": "05_Patterns/01_monochrome/waves-and-experiments/V4_Pyra_21_Truchet_Bogenlabyrinth_A4.png",
+      "sha256": "0080615865d5198430e09137957b615d37d76d32409e3135c5e9dbd24409e49b",
+      "bytes": 414929
+    },
+    {
+      "path": "05_Patterns/01_monochrome/waves-and-experiments/V4_Pyra_22_Pyra_aus_Pyra_A4.png",
+      "sha256": "fa89f4a81bc43406c5259be1def6f28f9352ef8ca40f64c13e6324e3eeb2e827",
+      "bytes": 196904
+    },
+    {
+      "path": "05_Patterns/01_monochrome/wordmarks/V4_Pyra_FELYA_23_Halbversatz_A4.png",
+      "sha256": "017a99dc1c2d2967c431a7e1d4b9aad278b1fd4373964cae4654d6ea670b894b",
+      "bytes": 301089
+    },
+    {
+      "path": "05_Patterns/01_monochrome/wordmarks/V4_Pyra_FELYA_24_Diagonale_Baender_A4.png",
+      "sha256": "0e624862d967f0d7dde6181b1e05ebaaaa3194af049846d5350a76b43e81fa0d",
+      "bytes": 1633216
+    },
+    {
+      "path": "05_Patterns/01_monochrome/wordmarks/V4_Pyra_FELYA_25_Wortmarken_Wellen_A4.png",
+      "sha256": "1cacbb0f10fcab645bde9a1edd70de7d18e3bea8854a2576bef1a8896e73f535",
+      "bytes": 1077168
+    },
+    {
+      "path": "05_Patterns/01_monochrome/wordmarks/V4_Pyra_FELYA_26_Korbgeflecht_A4.png",
+      "sha256": "9523e9792fde469d2db3af51d324b2632515d483bf785246bc0e3220a2336d36",
+      "bytes": 372992
+    },
+    {
+      "path": "05_Patterns/01_monochrome/wordmarks/V4_Pyra_FELYA_27_Gross_Klein_A4.png",
+      "sha256": "f5225a83523ee796b2cd5c425357e28e1fa8dce27bd82011856ba0ca760c5eb4",
+      "bytes": 314941
+    },
+    {
+      "path": "05_Patterns/01_monochrome/wordmarks/V4_Pyra_FELYA_28_Rahmengruppen_A4.png",
+      "sha256": "d9c32eae19a542bdcd4912f941ff50896cb1ba03c4b4d0431fdc3397b0ab39d7",
+      "bytes": 309220
+    },
+    {
+      "path": "05_Patterns/02_color/01_Fokus_Spiralen/F01_Goldener_Ursprung_Light_A4.png",
+      "sha256": "1546444ab87fa266c0b76aae2baa7883a3c005266023cd058a511e9755d0bd25",
+      "bytes": 1415911
+    },
+    {
+      "path": "05_Patterns/02_color/01_Fokus_Spiralen/F02_Goldener_Ursprung_Dark_A4.png",
+      "sha256": "e5324c7e061fb95c5a067d67706b9db5f85b13fcd3c5cc2994d3ecc901fc09cf",
+      "bytes": 1500585
+    },
+    {
+      "path": "05_Patterns/02_color/01_Fokus_Spiralen/F03_Blaues_Feld_A4.png",
+      "sha256": "03c8d97edb0065f29f69688839655b572fa18bfb00f59936aa92a40a86df22b6",
+      "bytes": 1234419
+    },
+    {
+      "path": "05_Patterns/02_color/02_Wellen_und_Rhythmus/F04_Blaue_Stroeme_A4.png",
+      "sha256": "47bf06cfc799f0ae3403b7265f319bf0a9f358074d3d00fa96530886eead80a7",
+      "bytes": 1296607
+    },
+    {
+      "path": "05_Patterns/02_color/02_Wellen_und_Rhythmus/F05_Negative_Wellen_A4.png",
+      "sha256": "0a17249b0b03f8b34f14204d9da2acd84b08f0902378ee2e1ece227de67fbf88",
+      "bytes": 1322113
+    },
+    {
+      "path": "05_Patterns/02_color/02_Wellen_und_Rhythmus/F06_Goldene_Baender_A4.png",
+      "sha256": "fefa6b51b747b160afa728782fd73deebff6a0ce6afa5a5085a410409c956412",
+      "bytes": 1183291
+    },
+    {
+      "path": "05_Patterns/02_color/03_Gruppen/F07_Dreiklang_A4.png",
+      "sha256": "d9fc0b64c24195e43a6c086ce4bf1ac8ce09aa4960cb670bd1dac4751daf4742",
+      "bytes": 286677
+    },
+    {
+      "path": "05_Patterns/02_color/03_Gruppen/F08_Negative_Gruppen_A4.png",
+      "sha256": "ca2adfbe66397f96040d2586cefc2e45909e9bc2d9c251543dba85690951fd53",
+      "bytes": 626421
+    },
+    {
+      "path": "05_Patterns/02_color/03_Gruppen/F09_Eine_Gruppe_im_Fokus_A4.png",
+      "sha256": "54b28d2372115d18e3aa5f59cc34ba2181886c731b5e19c516cfbfc0e186a11d",
+      "bytes": 470473
+    },
+    {
+      "path": "05_Patterns/02_color/04_Wortmarken/F10_FELYA_Farbzeilen_A4.png",
+      "sha256": "e42defc224af0350e46c614b97276d233ebe317c29b9028417c664a01c0ecf40",
+      "bytes": 284016
+    },
+    {
+      "path": "05_Patterns/02_color/04_Wortmarken/F11_FELYA_Negativ_A4.png",
+      "sha256": "424db5464f8811e7c98bdd8f6b538eddc86b99742d6ab5e9622e734b0c91d15b",
+      "bytes": 284198
+    },
+    {
+      "path": "05_Patterns/02_color/04_Wortmarken/F12_Positiv_Negativ_Wechsel_A4.png",
+      "sha256": "39a8e426f551d6ee1bd6ac05a94e2931b1063f062bb927ad99d86dd62835989b",
+      "bytes": 277060
+    },
+    {
+      "path": "05_Patterns/03_Animationen/F02/F02_Lebendige_Spirale_02.html",
+      "sha256": "48eacd724d064452c02ec851c3679ed872bc394abf3ebc34574d4e5dc2a635df",
+      "bytes": 44316
+    },
+    {
+      "path": "05_Patterns/03_Animationen/F02/F02_Ruhige_Bewegung_03.webm",
+      "sha256": "583d0df7d9431d1dd1da780a96d96d47b13f4ccbb813e326361aecc752053065",
+      "bytes": 17995435
+    },
+    {
+      "path": "05_Patterns/03_Animationen/F02/F02_Ruhige_Bewegung_03_Video_Preview.png",
+      "sha256": "327b369f27f95be065a759d87419f7141ac32ca785d2560ddb972f4bff6c0897",
+      "bytes": 550386
+    },
+    {
+      "path": "06_Designstudien/Anwendung/Favicon/felya-favicon-black.svg",
+      "sha256": "5b37176e535c39c1dd7fc0fd42a7a24fcc564d28a9a15fc6192c911022f0b349",
+      "bytes": 3129
+    },
+    {
+      "path": "06_Designstudien/Anwendung/Favicon/felya-favicon-white.svg",
+      "sha256": "3ccc9aa3ec882f6adeaf5a2b7be630c58330889a4eb06efeb9c90bc05cdda984",
+      "bytes": 3129
+    },
+    {
+      "path": "06_Designstudien/Anwendung/Poster/A4_Felya_Glove_Legacy_Vergleich.svg",
+      "sha256": "e9ac8191fc9c6c6f00db07d81b68e1243e90a660c405a7c153892e7bb84c453a",
+      "bytes": 2672997
+    },
+    {
+      "path": "06_Designstudien/Anwendung/Poster/A4_Felya_Glove_Pyra_Master.svg",
+      "sha256": "ffaa4db3c5d0223fb20f383be3f9d39a432fe535bdb6dd979d9bf32f9396ae24",
+      "bytes": 1293934
+    },
+    {
+      "path": "06_Designstudien/Anwendung/Skizzen/Praesentation/humanoid-arms-knipex-pliers-dark.png",
+      "sha256": "7d1ce5e905f0d8ae96cb21e3a555698562d6018839086df06e12ee63e2f77a0e",
+      "bytes": 265600
+    },
+    {
+      "path": "06_Designstudien/Anwendung/Skizzen/Praesentation/humanoid-arms-knipex-pliers-light.png",
+      "sha256": "d405bffc8f7842a77415679fd495f9dedd0b2fb4e189fe8448d7df355c9e5342",
+      "bytes": 246558
+    },
+    {
+      "path": "06_Designstudien/Anwendung/Skizzen/Praesentation/humanoid-with-rose-dark.png",
+      "sha256": "d2332f5551093cfd0bdf18d65b8cd638dc5ba1be9f27918600a71f10c9b18fcc",
+      "bytes": 777733
+    },
+    {
+      "path": "06_Designstudien/Anwendung/Skizzen/Praesentation/humanoid-with-rose-light.png",
+      "sha256": "3b27d13627665839bc5e9305666428eeaff9be56744c069d6f0b7c29dca4d2fd",
+      "bytes": 736857
+    },
+    {
+      "path": "06_Designstudien/Anwendung/Skizzen/Praesentation/operator-vr-paton-glove-dark.png",
+      "sha256": "29e3a9a444055e70e7f1326eefb01f5d4918b7a336df79f1d4d363a94760af45",
+      "bytes": 457065
+    },
+    {
+      "path": "06_Designstudien/Anwendung/Skizzen/Praesentation/operator-vr-paton-glove-light.png",
+      "sha256": "a7067fe5a3a87ebec63438bede6f23536fef7657ab020ac7648b618e400c73f9",
+      "bytes": 391533
+    },
+    {
+      "path": "06_Designstudien/Anwendung/Skizzen/Praesentation/static-haptic-dark.png",
+      "sha256": "6180abd60e07a30995cf5c5488df6ef101fb19f26baf16e18182e4589a293196",
+      "bytes": 374499
+    },
+    {
+      "path": "06_Designstudien/Anwendung/Skizzen/Praesentation/static-haptic-light.png",
+      "sha256": "80339b9d351689c8f3ab9332e9034b52c5f35a255802875269ae4d94303dd64f",
+      "bytes": 369878
+    },
+    {
+      "path": "06_Designstudien/Anwendung/Skizzen/Praesentation/vr-hydrogen-engine-touch-dark.png",
+      "sha256": "ceb3f26bd808825efa65c4aae2324603b18c1bb4079b05c26ef7fcd7e023a456",
+      "bytes": 1207885
+    },
+    {
+      "path": "06_Designstudien/Anwendung/Skizzen/Praesentation/vr-hydrogen-engine-touch-light.png",
+      "sha256": "afd6e268985581e481db6b3566604de5042998957670afb2e5a7adcfcc3c0030",
+      "bytes": 1172259
+    },
+    {
+      "path": "06_Designstudien/Anwendung/Website/Pyra auf Website_dark.png",
+      "sha256": "c457f329a69fa265c5eb8a6237ccc9ab3d090d6ca766487d016d672a5e554328",
+      "bytes": 1272199
+    },
+    {
+      "path": "06_Designstudien/Anwendung/Website/Pyra_auf_Website_light_bereinigt.png",
+      "sha256": "7656233491fa75647b05b27e95008e265a3157fbea7ce11a2774794574243871",
+      "bytes": 1747373
+    },
+    {
+      "path": "06_Designstudien/Mensch/Pyra_Mensch_neutral_07_Dunkel.png",
+      "sha256": "ea39af7f36669715a7e21e70d8b806a92194be5e54b54df7f6953bf917ad902f",
+      "bytes": 175215
+    },
+    {
+      "path": "06_Designstudien/Mensch/Pyra_Mensch_neutral_07_Master.png",
+      "sha256": "ac0ea16541171f3acf816e74a78294caadd3d4968f8cf4558ca4c20504bfcce3",
+      "bytes": 172393
+    },
+    {
+      "path": "06_Designstudien/Prometheus/Prometheus_Dunkel.png",
+      "sha256": "14f362603c95c22285fd205030c69870cb2ccfadf4ab3c550f163227057617e9",
+      "bytes": 201379
+    },
+    {
+      "path": "06_Designstudien/Prometheus/Prometheus_Dunkel_FELYA.png",
+      "sha256": "9be37ab20c5192032e559e28f3fe9287986995c2a18d9b6f4068f01e1d84d8c4",
+      "bytes": 228413
+    },
+    {
+      "path": "06_Designstudien/Prometheus/Prometheus_Hell.png",
+      "sha256": "e339f87c0b5de3bc818ae1af2145d617af508a8616f4a49a60b7c67df7cf29e2",
+      "bytes": 574135
+    },
+    {
+      "path": "06_Designstudien/Prometheus/Prometheus_Hell_FELYA.png",
+      "sha256": "dbb6acd6e8ea5737350b2f74a24b03a88deb6a645e9d2c5bbae526dd7574dd76",
+      "bytes": 657629
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/comparison-combined.svg",
+      "sha256": "fbc4f1151c11aea61777a6cfc4a3e8b8b3a8e6fcfbe6bec77f6621932925776e",
+      "bytes": 82663
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/felya-construction-2x.png",
+      "sha256": "9cf73e8725bffa107de4019f1301ff5ad79131ed59055a1ca9d15f2c346d75d4",
+      "bytes": 679566
+    },
+    {
+      "path": "07_Pyra-Presentation/continuous-corners.js",
+      "sha256": "08d11d47ddff5682ea37bccbe53fc75a40dab0773b581bdb53a0fcc0bbd56033",
+      "bytes": 3071
+    },
+    {
+      "path": "07_Pyra-Presentation/index.html",
+      "sha256": "2e8b16fba4845510028d0fcea4128fb7c694c0900ea6ded7fa9d9da13c9df403",
+      "bytes": 71146
+    },
+    {
+      "path": "07_Pyra-Presentation/output/pdf/FELYA_Designentwicklung_Rebranding_A4.pdf",
+      "sha256": "01f14bb0aae3766ab894af7e2532f243a00cb0cd7d93e8f4f1eed06fa7fa10bf",
+      "bytes": 54214937
+    },
+    {
+      "path": "07_Pyra-Presentation/output/pdf/FELYA_Rebranding_Versand.pdf",
+      "sha256": "9b44332afb3a93ffff11cc654e068ad22cd25f579452f2dbec81f7245351d2f3",
+      "bytes": 11437378
+    },
+    {
+      "path": "07_Pyra-Presentation/pyra-favicon-blue.svg",
+      "sha256": "7933a91835e7ca35bf9e68291fe50457dcfc21c877c8042c3e16cbb0746fc2a4",
+      "bytes": 3129
+    },
+    {
+      "path": "09_Pyra-Logoentwicklung/Versionen/v0/05 SVG/v0-pyra.svg",
+      "sha256": "587e4a8e840435e063512442d21c9809324a31989078532e539845476fd28649",
+      "bytes": 961
+    },
+    {
+      "path": "09_Pyra-Logoentwicklung/Versionen/v1/05 SVG/v1-pyra.svg",
+      "sha256": "4604c0aa9b5373973642cd550d22128d9e3c9cce4f9eb98be009d21599769367",
+      "bytes": 1044
+    },
+    {
+      "path": "09_Pyra-Logoentwicklung/Versionen/v2/05 SVG/v2-pyra.svg",
+      "sha256": "4fd8659dca9bd78aff4852a5fb8a32ae730ce2f471bf90e8ef522c7a2a3abd21",
+      "bytes": 1050
+    },
+    {
+      "path": "09_Pyra-Logoentwicklung/Vorversionen/v0-delivered-wordmark.svg",
+      "sha256": "20238d0216dc31eea0fa59a05c2b1ac7ec451561cd17c894a3ddb13c09f3ac02",
+      "bytes": 1359
+    },
+    {
+      "path": "09_Pyra-Logoentwicklung/Vorversionen/v0-initial-sketches.png",
+      "sha256": "ca04e47b381ae65f8ba31f38a3afa188ef1c1598f7b0fe23b1e2df0f14c138f4",
+      "bytes": 188153
+    },
+    {
+      "path": "80_Legacy-Logo/01_Logo FELYA LABS Transparent/FELYA LABS Logo + Word_black_transparent.png",
+      "sha256": "ac41c51e7c5d29f2c521f2fbc5c1f31d92787c469e86de89d8586cef7dc9b15b",
+      "bytes": 302059
+    },
+    {
+      "path": "index.html",
+      "sha256": "023b96858a28237ec78eee738a7894b0480a253c6bd8739ee4f95b242cbd45a3",
+      "bytes": 71250
+    }
+  ]
+}

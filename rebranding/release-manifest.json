@@ -1,5 +1,5 @@
 {
-  "sourceCommit": "8a59361c0d3e35c990e32fc3ff75da5040933d7b",
+  "sourceCommit": "773c20a4fd42e6b984d0f85e5cff1ac130a44300",
   "sourceDirty": false,
   "files": [
     {
@@ -303,16 +303,6 @@
       "bytes": 44316
     },
     {
-      "path": "05_Patterns/03_Animationen/F02/F02_Ruhige_Bewegung_03.webm",
-      "sha256": "583d0df7d9431d1dd1da780a96d96d47b13f4ccbb813e326361aecc752053065",
-      "bytes": 17995435
-    },
-    {
-      "path": "05_Patterns/03_Animationen/F02/F02_Ruhige_Bewegung_03_Video_Preview.png",
-      "sha256": "327b369f27f95be065a759d87419f7141ac32ca785d2560ddb972f4bff6c0897",
-      "bytes": 550386
-    },
-    {
       "path": "06_Designstudien/Anwendung/Favicon/felya-favicon-black.svg",
       "sha256": "5b37176e535c39c1dd7fc0fd42a7a24fcc564d28a9a15fc6192c911022f0b349",
       "bytes": 3129
@@ -439,8 +429,8 @@
     },
     {
       "path": "07_Pyra-Presentation/index.html",
-      "sha256": "2e8b16fba4845510028d0fcea4128fb7c694c0900ea6ded7fa9d9da13c9df403",
-      "bytes": 71146
+      "sha256": "0bc48687609e3d943053b89e1449283268a0ebc5cc3a878e93e4a496848a403a",
+      "bytes": 73594
     },
     {
       "path": "07_Pyra-Presentation/output/pdf/FELYA_Designentwicklung_Rebranding_A4.pdf",
@@ -489,8 +479,8 @@
     },
     {
       "path": "index.html",
-      "sha256": "023b96858a28237ec78eee738a7894b0480a253c6bd8739ee4f95b242cbd45a3",
-      "bytes": 71250
+      "sha256": "1cf205d8ae1e2fa7051e0a054fde9521b048662874e6d9939dffd4edcb1d86b9",
+      "bytes": 73698
     }
   ]
 }

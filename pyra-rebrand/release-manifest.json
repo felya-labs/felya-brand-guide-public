@@ -429,8 +429,8 @@
     },
     {
       "path": "07_Pyra-Presentation/index.html",
-      "sha256": "ce4b4de6b455b1717409b79d4a7c3ec0109b63edebc7e8ed346b6439eb78f4bf",
-      "bytes": 74030
+      "sha256": "64a9a0412e1b3bdcdc5dfd47490fc4c2e4e22f5ad512894931c42d492f5c6629",
+      "bytes": 74034
     },
     {
       "path": "07_Pyra-Presentation/output/pdf/FELYA_Designentwicklung_Rebranding_A4.pdf",
@@ -479,8 +479,8 @@
     },
     {
       "path": "index.html",
-      "sha256": "7fe58f6a3c1380727e14ba2699a54d7738e435aafb12d3eb12669edb09ca934e",
-      "bytes": 74066
+      "sha256": "51d2967ee3e459513670c05f0f0997a220613d2d5f333e860fb5c868ceedd9d1",
+      "bytes": 74070
     }
   ],
   "sourcePath": "07_Pyra-Presentation/",

@@ -429,8 +429,8 @@
     },
     {
       "path": "07_Pyra-Presentation/index.html",
-      "sha256": "0bc48687609e3d943053b89e1449283268a0ebc5cc3a878e93e4a496848a403a",
-      "bytes": 73594
+      "sha256": "ce4b4de6b455b1717409b79d4a7c3ec0109b63edebc7e8ed346b6439eb78f4bf",
+      "bytes": 74030
     },
     {
       "path": "07_Pyra-Presentation/output/pdf/FELYA_Designentwicklung_Rebranding_A4.pdf",
@@ -479,8 +479,11 @@
     },
     {
       "path": "index.html",
-      "sha256": "1cf205d8ae1e2fa7051e0a054fde9521b048662874e6d9939dffd4edcb1d86b9",
-      "bytes": 73698
+      "sha256": "7fe58f6a3c1380727e14ba2699a54d7738e435aafb12d3eb12669edb09ca934e",
+      "bytes": 74066
     }
-  ]
+  ],
+  "sourcePath": "07_Pyra-Presentation/",
+  "publicRoute": "/pyra-rebrand/",
+  "canonicalUrl": "https://brand.felya.com/pyra-rebrand/"
 }

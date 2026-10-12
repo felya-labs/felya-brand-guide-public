@@ -83,14 +83,14 @@
       "bytes": 245207
     },
     {
-      "path": "03_Logoanimationen/03_Kombination/FELYA_Complete_Identity_Dark.webm",
-      "sha256": "7e3a69ad4b6bc4815c1375a91dd33d1326cec4fb6bf5bd6129e211ccc3358e4b",
-      "bytes": 3639487
-    },
-    {
       "path": "03_Logoanimationen/03_Kombination/FELYA_Complete_Identity_Dark_Poster.png",
       "sha256": "0d12c4fadef60ba7c5e6105a056c8675ae730cc83abd03f5dd2df7eb94831398",
       "bytes": 135632
+    },
+    {
+      "path": "03_Logoanimationen/03_Kombination/FELYA_Complete_Identity_Dark.webm",
+      "sha256": "7e3a69ad4b6bc4815c1375a91dd33d1326cec4fb6bf5bd6129e211ccc3358e4b",
+      "bytes": 3639487
     },
     {
       "path": "04_Logo Konstruktion/Pyra_Konstruktion_Fuellung_Korrigiert.png",
@@ -393,24 +393,24 @@
       "bytes": 172393
     },
     {
-      "path": "06_Designstudien/Prometheus/Prometheus_Dunkel.png",
-      "sha256": "14f362603c95c22285fd205030c69870cb2ccfadf4ab3c550f163227057617e9",
-      "bytes": 201379
-    },
-    {
       "path": "06_Designstudien/Prometheus/Prometheus_Dunkel_FELYA.png",
       "sha256": "9be37ab20c5192032e559e28f3fe9287986995c2a18d9b6f4068f01e1d84d8c4",
       "bytes": 228413
     },
     {
-      "path": "06_Designstudien/Prometheus/Prometheus_Hell.png",
-      "sha256": "e339f87c0b5de3bc818ae1af2145d617af508a8616f4a49a60b7c67df7cf29e2",
-      "bytes": 574135
+      "path": "06_Designstudien/Prometheus/Prometheus_Dunkel.png",
+      "sha256": "14f362603c95c22285fd205030c69870cb2ccfadf4ab3c550f163227057617e9",
+      "bytes": 201379
     },
     {
       "path": "06_Designstudien/Prometheus/Prometheus_Hell_FELYA.png",
       "sha256": "dbb6acd6e8ea5737350b2f74a24b03a88deb6a645e9d2c5bbae526dd7574dd76",
       "bytes": 657629
+    },
+    {
+      "path": "06_Designstudien/Prometheus/Prometheus_Hell.png",
+      "sha256": "e339f87c0b5de3bc818ae1af2145d617af508a8616f4a49a60b7c67df7cf29e2",
+      "bytes": 574135
     },
     {
       "path": "07_Pyra-Presentation/assets/comparison-combined.svg",
@@ -429,8 +429,8 @@
     },
     {
       "path": "07_Pyra-Presentation/index.html",
-      "sha256": "64a9a0412e1b3bdcdc5dfd47490fc4c2e4e22f5ad512894931c42d492f5c6629",
-      "bytes": 74034
+      "sha256": "a208e271478d0b62bd0e699a9f29a46a8997f48790bfb4574cb8d336eb9de292",
+      "bytes": 75847
     },
     {
       "path": "07_Pyra-Presentation/output/pdf/FELYA_Designentwicklung_Rebranding_A4.pdf",
@@ -446,6 +446,36 @@
       "path": "07_Pyra-Presentation/pyra-favicon-blue.svg",
       "sha256": "7933a91835e7ca35bf9e68291fe50457dcfc21c877c8042c3e16cbb0746fc2a4",
       "bytes": 3129
+    },
+    {
+      "path": "07_Pyra-Presentation/sharing/pyra-apple-touch-icon.png",
+      "sha256": "7f8d0cb0d9ecae67f6e1cd45e31137add8c32884684a35f58ca5b493338d43bc",
+      "bytes": 3083
+    },
+    {
+      "path": "07_Pyra-Presentation/sharing/pyra-favicon-blue-16.png",
+      "sha256": "151f211d06495ec04b51ebaeceb3be31a8026b54a2c835704d2ef03197109bca",
+      "bytes": 372
+    },
+    {
+      "path": "07_Pyra-Presentation/sharing/pyra-favicon-blue-32.png",
+      "sha256": "40e2f61d50917607c7c871751c31112413fa3c8725542f2b55d2a8deb2c7eaa2",
+      "bytes": 637
+    },
+    {
+      "path": "07_Pyra-Presentation/sharing/pyra-favicon-blue-48.png",
+      "sha256": "8f8b29c67b718d3b179cb2f51a558f8bee93397e29c0b249a7e207d36ed39efd",
+      "bytes": 868
+    },
+    {
+      "path": "07_Pyra-Presentation/sharing/pyra-favicon-blue.ico",
+      "sha256": "98b1558c3b00d7223eecfe41df03af8d2236e546d908233b82fc0d524084b30e",
+      "bytes": 1931
+    },
+    {
+      "path": "07_Pyra-Presentation/sharing/pyra-rebrand-social-1200x630-v1.jpg",
+      "sha256": "7f75612f91906d85b6ac9dd51a14409c1f6d3a1d13bd94c489246ec22f99408e",
+      "bytes": 53042
     },
     {
       "path": "09_Pyra-Logoentwicklung/Versionen/v0/05 SVG/v0-pyra.svg",
@@ -479,11 +509,13 @@
     },
     {
       "path": "index.html",
-      "sha256": "51d2967ee3e459513670c05f0f0997a220613d2d5f333e860fb5c868ceedd9d1",
-      "bytes": 74070
+      "sha256": "ca0068f09e2042df9215990064b09bdc3f44ada81001da41de74cb963ec81ee7",
+      "bytes": 75885
     }
   ],
   "sourcePath": "07_Pyra-Presentation/",
   "publicRoute": "/pyra-rebrand/",
-  "canonicalUrl": "https://brand.felya.com/pyra-rebrand/"
+  "canonicalUrl": "https://brand.felya.com/pyra-rebrand/",
+  "sharingSourceCommit": "a568e03e0025140df0716095354223793126ad04",
+  "sharingSourcePath": "07_Pyra-Presentation/sharing/"
 }

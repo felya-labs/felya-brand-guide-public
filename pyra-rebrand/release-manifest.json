@@ -83,14 +83,14 @@
       "bytes": 245207
     },
     {
-      "path": "03_Logoanimationen/03_Kombination/FELYA_Complete_Identity_Dark_Poster.png",
-      "sha256": "0d12c4fadef60ba7c5e6105a056c8675ae730cc83abd03f5dd2df7eb94831398",
-      "bytes": 135632
-    },
-    {
       "path": "03_Logoanimationen/03_Kombination/FELYA_Complete_Identity_Dark.webm",
       "sha256": "7e3a69ad4b6bc4815c1375a91dd33d1326cec4fb6bf5bd6129e211ccc3358e4b",
       "bytes": 3639487
+    },
+    {
+      "path": "03_Logoanimationen/03_Kombination/FELYA_Complete_Identity_Dark_Poster.png",
+      "sha256": "0d12c4fadef60ba7c5e6105a056c8675ae730cc83abd03f5dd2df7eb94831398",
+      "bytes": 135632
     },
     {
       "path": "04_Logo Konstruktion/Pyra_Konstruktion_Fuellung_Korrigiert.png",
@@ -393,24 +393,24 @@
       "bytes": 172393
     },
     {
-      "path": "06_Designstudien/Prometheus/Prometheus_Dunkel_FELYA.png",
-      "sha256": "9be37ab20c5192032e559e28f3fe9287986995c2a18d9b6f4068f01e1d84d8c4",
-      "bytes": 228413
-    },
-    {
       "path": "06_Designstudien/Prometheus/Prometheus_Dunkel.png",
       "sha256": "14f362603c95c22285fd205030c69870cb2ccfadf4ab3c550f163227057617e9",
       "bytes": 201379
     },
     {
-      "path": "06_Designstudien/Prometheus/Prometheus_Hell_FELYA.png",
-      "sha256": "dbb6acd6e8ea5737350b2f74a24b03a88deb6a645e9d2c5bbae526dd7574dd76",
-      "bytes": 657629
+      "path": "06_Designstudien/Prometheus/Prometheus_Dunkel_FELYA.png",
+      "sha256": "9be37ab20c5192032e559e28f3fe9287986995c2a18d9b6f4068f01e1d84d8c4",
+      "bytes": 228413
     },
     {
       "path": "06_Designstudien/Prometheus/Prometheus_Hell.png",
       "sha256": "e339f87c0b5de3bc818ae1af2145d617af508a8616f4a49a60b7c67df7cf29e2",
       "bytes": 574135
+    },
+    {
+      "path": "06_Designstudien/Prometheus/Prometheus_Hell_FELYA.png",
+      "sha256": "dbb6acd6e8ea5737350b2f74a24b03a88deb6a645e9d2c5bbae526dd7574dd76",
+      "bytes": 657629
     },
     {
       "path": "07_Pyra-Presentation/assets/comparison-combined.svg",
@@ -423,14 +423,614 @@
       "bytes": 679566
     },
     {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/F01_Goldener_Ursprung_Light_A4-240.webp",
+      "sha256": "8e2ce1b472202dd70d27f677f31c0fb250842879009b563f72caba01b2395d0b",
+      "bytes": 51224
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/F01_Goldener_Ursprung_Light_A4-480.webp",
+      "sha256": "e4cec9a6ef3c73b967540fc976b56dce9934f791b5c1016faa28b7090cb96b55",
+      "bytes": 114216
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/F01_Goldener_Ursprung_Light_A4-960.webp",
+      "sha256": "447cc70ecd22f39aa897017152d88a77a652f2f28a84223ce6f5299429aab8ca",
+      "bytes": 260948
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/F02_Goldener_Ursprung_Dark_A4-240.webp",
+      "sha256": "0e508d688b074d62cd7a3265c677db0d638a742511d15385ce61fb190a0391bd",
+      "bytes": 51846
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/F02_Goldener_Ursprung_Dark_A4-480.webp",
+      "sha256": "8ac1d156bfc70b1dc2b35853640b036d2db929b455ad78db7f2756c77ecbd008",
+      "bytes": 109762
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/F02_Goldener_Ursprung_Dark_A4-960.webp",
+      "sha256": "6f6c9d66c5c0dcb9432646b4269ec55a25b5e3446891b438c7c0120be935ffe4",
+      "bytes": 227546
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/F03_Blaues_Feld_A4-240.webp",
+      "sha256": "11ceea4e5925d9fdb88316e2ebef34009bdbc24b538e33e144da97a08ae5e3e8",
+      "bytes": 48850
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/F03_Blaues_Feld_A4-480.webp",
+      "sha256": "6ed2f5f59b01527171e227f5637353bf7fdc3473310fa40ac7681b308b61416c",
+      "bytes": 103894
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/F03_Blaues_Feld_A4-960.webp",
+      "sha256": "6f8e51c67aaa3f0e44f58d321204be9e520b39a4ef856a928fd171840e79ce79",
+      "bytes": 215246
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/F04_Blaue_Stroeme_A4-240.webp",
+      "sha256": "dc4764fc6d55f5a045dee872ca1bd7e9d47cdee1a14cad1bb36349da1ef7a532",
+      "bytes": 50886
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/F04_Blaue_Stroeme_A4-480.webp",
+      "sha256": "1e70e431a12021e6af401aff96cf711ada530a6c36b1a0ca3bcd3a7f79fb20c9",
+      "bytes": 107060
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/F04_Blaue_Stroeme_A4-960.webp",
+      "sha256": "782a982910cda91d091fb98c20cea7c51cb7eaba88b45bc89c75981e17d2bfa2",
+      "bytes": 234512
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/F05_Negative_Wellen_A4-240.webp",
+      "sha256": "9a5b1f0b3df56db0c966d143c6804aca84ce541d0ad62ed4a062a4a9935851ae",
+      "bytes": 43738
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/F05_Negative_Wellen_A4-480.webp",
+      "sha256": "74846b5ba1d8954dd7cc96adefdc4eda677d0b4eaaf093a4e9c6a0fcb61108db",
+      "bytes": 94124
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/F05_Negative_Wellen_A4-960.webp",
+      "sha256": "4063b5d4c16275663c4399ed78859ce3d9351fd0e60b8d935ee866f2bf995580",
+      "bytes": 195626
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/F06_Goldene_Baender_A4-240.webp",
+      "sha256": "5b6356db3cd1b72460b7233a4ba0f34b0bfefa9d7dae090790e5aeeffbd5191b",
+      "bytes": 48268
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/F06_Goldene_Baender_A4-480.webp",
+      "sha256": "1a5a8f3d78cc4a147dc0dee31cb700e12d9db9333edf5c43a614f822b806bb08",
+      "bytes": 103696
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/F06_Goldene_Baender_A4-960.webp",
+      "sha256": "02522c12ab1844eff89518a51cb3f950d029234e204dcda093dcb7a3d193969b",
+      "bytes": 208008
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/F07_Dreiklang_A4-240.webp",
+      "sha256": "b4e1537349852863ebd46f98fd880e0f9f499c021d738eb5f7620438a8556d83",
+      "bytes": 41810
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/F07_Dreiklang_A4-480.webp",
+      "sha256": "1cb7ee60bdaed88d680a7b7a766a0389fb6cacfbd1a11efe6c4ffff49115fab5",
+      "bytes": 96592
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/F07_Dreiklang_A4-960.webp",
+      "sha256": "1ce2dfdfd02b6ada9bf499dfcd4ae89e67bdd5b5b0a62f7e00739b9a7083eb1e",
+      "bytes": 198460
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/F08_Negative_Gruppen_A4-240.webp",
+      "sha256": "e9e7c8dcf0d0f79e477bf582c2f85fa15ec624ad2cc494009b0ed900dec16863",
+      "bytes": 33606
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/F08_Negative_Gruppen_A4-480.webp",
+      "sha256": "150cdde4515c9bd89d26308d78ff32713c756c41fab32ad5f1e46a4eab38e72f",
+      "bytes": 77474
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/F08_Negative_Gruppen_A4-960.webp",
+      "sha256": "0a45609fd5b3670105a5664316106def9a5fdee0d85889ff2ff511fccc6c988f",
+      "bytes": 162130
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/F09_Eine_Gruppe_im_Fokus_A4-240.webp",
+      "sha256": "2fae5e03f005eed8cf9a4dcc772babf7679fa297353fea79a96cfd63e9ae128b",
+      "bytes": 37994
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/F09_Eine_Gruppe_im_Fokus_A4-480.webp",
+      "sha256": "01a1dd59f17233a3bdad9cfe812bb0179cbd00a3c178ca47974191e68d65e403",
+      "bytes": 80392
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/F09_Eine_Gruppe_im_Fokus_A4-960.webp",
+      "sha256": "cbe2c6c6f00734cf1f76ec6c76da011d0870a3f123146550aa10a4d79fb888ce",
+      "bytes": 164688
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/F10_FELYA_Farbzeilen_A4-240.webp",
+      "sha256": "83882ec18d320109434b87e3281fa05117763900b16ffd3a3326328e9e03fa1e",
+      "bytes": 46562
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/F10_FELYA_Farbzeilen_A4-480.webp",
+      "sha256": "ab0474a6b6e13ceb7221f816d8e609f1de143db51cd407309cea9dfa5768b89b",
+      "bytes": 96882
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/F10_FELYA_Farbzeilen_A4-960.webp",
+      "sha256": "a8789b24010f552134e978789a8ce258cd5e77dc687ef35343432912d18a8710",
+      "bytes": 212050
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/F11_FELYA_Negativ_A4-240.webp",
+      "sha256": "30b778b88ad10501ccce9e4af489592103abbe5caa67d98ae2eec1b4762c6593",
+      "bytes": 35666
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/F11_FELYA_Negativ_A4-480.webp",
+      "sha256": "171a779b8a4de7a2d6b117d989252588e26216e02cdeedb588147feed396cd00",
+      "bytes": 80442
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/F11_FELYA_Negativ_A4-960.webp",
+      "sha256": "23767eb04e4d23a7fb0bbe8ea0db30b37bf3f66eedffa2aeb0564d91ea4fc035",
+      "bytes": 167242
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/F12_Positiv_Negativ_Wechsel_A4-240.webp",
+      "sha256": "e4baeb95947c559083eb5499cf655181d45c591f6016fd7ac18c1c9e9b70234f",
+      "bytes": 44116
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/F12_Positiv_Negativ_Wechsel_A4-480.webp",
+      "sha256": "f044e29beffa72bc5cb00f52b1bcefb4a8103d9caa345ba5d069ce24d703850a",
+      "bytes": 89554
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/F12_Positiv_Negativ_Wechsel_A4-960.webp",
+      "sha256": "78df20c5cbc0527420081f6b99fa802d04e19a1667c3c94767373a343705ccbd",
+      "bytes": 162278
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_15_Parallele_Wellen_A4-240.webp",
+      "sha256": "2b8b45bc6d637ba9b3b4f145ccb76b99982c3193b1987f675ef0404c1f40e12f",
+      "bytes": 30200
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_15_Parallele_Wellen_A4-480.webp",
+      "sha256": "4ee861035ee0b63a54967439a80286687ab442641dda16b6651cb812f6ccc033",
+      "bytes": 67668
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_15_Parallele_Wellen_A4-960.webp",
+      "sha256": "a54caca8c6e06e406118be22fddd9db51d7102a3ff7681b4128c78447cbf01f5",
+      "bytes": 145184
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_16_Vertikale_Stroemung_A4-240.webp",
+      "sha256": "6f82c4284e86687b57e2ab2909004e9a1aba13cfa38e87d63aa6a45cc7bc5a5f",
+      "bytes": 25182
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_16_Vertikale_Stroemung_A4-480.webp",
+      "sha256": "16bc77ddeacb100ceddce919492d776a18af886fc065818afc26e62ab9c7beb9",
+      "bytes": 57742
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_16_Vertikale_Stroemung_A4-960.webp",
+      "sha256": "cc05da038f4be76721bd4c6d23f4e59727d3ea39308a80b172bdd129c6ecdb1b",
+      "bytes": 126432
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_17_Diagonale_Brandung_A4-240.webp",
+      "sha256": "8790407c9442e70ad19dba6a8cf6c9b0aa8571d8ab20ed42f4e7cda85b84667f",
+      "bytes": 26054
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_17_Diagonale_Brandung_A4-480.webp",
+      "sha256": "7fa4469c50239feff84443063c588928bba54040008cc254eeb4f194b4f5dcda",
+      "bytes": 61038
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_17_Diagonale_Brandung_A4-960.webp",
+      "sha256": "04c9a0e3693883ce06b2cb08f642c6f85059f4612fef277fff92f8cecdec5ab9",
+      "bytes": 127542
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_18_Phasenwellen_A4-240.webp",
+      "sha256": "43f7429b7d7ab6bd13ef3e1350b89d9a33a3abf2d8334e6bf88cde54c88b4b3f",
+      "bytes": 28682
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_18_Phasenwellen_A4-480.webp",
+      "sha256": "63d2208b801bda6f6349ceba3af4a229d5d600a2593ba0d007a684ad24e8b002",
+      "bytes": 64126
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_18_Phasenwellen_A4-960.webp",
+      "sha256": "f9d70b86e08397cc2e4134f807b066b2f09ac3c968865db5cadac53489c755c6",
+      "bytes": 136954
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_19_Pulsierende_Wellen_A4-240.webp",
+      "sha256": "ae7096e6687f766be4e4e37b98ce739a9e116b7b0fa4919042ba36b7432ae85d",
+      "bytes": 27196
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_19_Pulsierende_Wellen_A4-480.webp",
+      "sha256": "0e63bfae87ad3c6c6882a5bb66e9d2f300de9c67921fda6aad8919a10fb87a36",
+      "bytes": 65110
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_19_Pulsierende_Wellen_A4-960.webp",
+      "sha256": "0c2ca38f728417ac221aa7e06a581360272a3f67feb4e48b16147d54a119a5d7",
+      "bytes": 134228
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_20_Organische_Stroemung_A4-240.webp",
+      "sha256": "f42687da3787df1b4dc2d579f325e840527f359728030c257d65c155d98fe33a",
+      "bytes": 27128
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_20_Organische_Stroemung_A4-480.webp",
+      "sha256": "628dc2b58eff8c23cdabcdc1cd1cdae05503930dac2de2609dca327dae1fa88f",
+      "bytes": 60712
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_20_Organische_Stroemung_A4-960.webp",
+      "sha256": "1c3c31ebd7998484e424cf2e3566c3e18d2c6333e47847d8def8fea506ee8485",
+      "bytes": 128630
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_21_Truchet_Bogenlabyrinth_A4-240.webp",
+      "sha256": "d210f4b758cfd2d4721c1adc9ddf775ca4d98e96a921085edc546af87e26230b",
+      "bytes": 3424
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_21_Truchet_Bogenlabyrinth_A4-480.webp",
+      "sha256": "84236c9f06515f8771f537f0be2b9dc4fa1cddcffa3a3a7bc4a7f7e27db15e13",
+      "bytes": 7214
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_21_Truchet_Bogenlabyrinth_A4-960.webp",
+      "sha256": "9ca64c5786830d6d0789a5f2d1f5e863c38152667253843502afadffa0569de4",
+      "bytes": 15566
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_22_Pyra_aus_Pyra_A4-240.webp",
+      "sha256": "f3635aa44848ef2eb34ff93feb428ce9c60be17adc46b385f785e1862c04152c",
+      "bytes": 18294
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_22_Pyra_aus_Pyra_A4-480.webp",
+      "sha256": "967ca8306b927db4e7f64c60f8ea9adaf139963a360baeed87d5b2e559a19fef",
+      "bytes": 32680
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_22_Pyra_aus_Pyra_A4-960.webp",
+      "sha256": "ce7aa1cb0d201f7c2a902ac24a5a7c80af36c9e88431ecec482d4145839121ac",
+      "bytes": 72326
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_FELYA_23_Halbversatz_A4-240.webp",
+      "sha256": "fc58cb1b7360344ea4ecfebc3c7a03332a23ef90f42ffffb55aa2fb5e882d90e",
+      "bytes": 25390
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_FELYA_23_Halbversatz_A4-480.webp",
+      "sha256": "51e2d40848bbb8969b78705d94629b297ec88c3e9534110e47fcf3b2aa524137",
+      "bytes": 55368
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_FELYA_23_Halbversatz_A4-960.webp",
+      "sha256": "cb7866883dd38e266cc4de4b7ebf1223a6a2b04bc1ec333f7292518c15cf9e05",
+      "bytes": 110500
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_FELYA_24_Diagonale_Baender_A4-240.webp",
+      "sha256": "335552ff22fc012fb6acabf3dc05de5f1c60dc45c029424d2a126693a20dd3cc",
+      "bytes": 31332
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_FELYA_24_Diagonale_Baender_A4-480.webp",
+      "sha256": "a48cabe0fb4545bd12b6677a8731d631a26ccfbaffd289c8cf50d4a222443b7b",
+      "bytes": 74884
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_FELYA_24_Diagonale_Baender_A4-960.webp",
+      "sha256": "7256f0b9ec444518afd01f8297c5789614a7a141bbf7d18f2582b066b7f04d6f",
+      "bytes": 163840
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_FELYA_25_Wortmarken_Wellen_A4-240.webp",
+      "sha256": "64ccabc073b26f5c5b716c00465b7d7396a8ce869ffcc168eb9536374d5e9a57",
+      "bytes": 4790
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_FELYA_25_Wortmarken_Wellen_A4-480.webp",
+      "sha256": "09ade3cd357a6d72d19d4ab519011ca7992b2b4462070cb11e151ac360e6917d",
+      "bytes": 11780
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_FELYA_25_Wortmarken_Wellen_A4-960.webp",
+      "sha256": "0e1515e04a9e1f7d607dfcb5d5bf368887013e21e5a364e0604a0cfaa7303335",
+      "bytes": 27692
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_FELYA_26_Korbgeflecht_A4-240.webp",
+      "sha256": "39a57f5a89284c6b41f5767b4183bad5890b8cf5ac3cb92ae6dc0e30496a7593",
+      "bytes": 23836
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_FELYA_26_Korbgeflecht_A4-480.webp",
+      "sha256": "5f21f558ee87c9586ac254cef54114316ff95bd0e7628de35803d1ff2b3b0ff5",
+      "bytes": 50054
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_FELYA_26_Korbgeflecht_A4-960.webp",
+      "sha256": "52954b7ea6736fbd72a60f60a1c006e9330616ea089aefa0ecf79525d69a3aa7",
+      "bytes": 94540
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_FELYA_27_Gross_Klein_A4-240.webp",
+      "sha256": "b85b86c9a9ef1d000829ff4653cbc0db7f4f04bfaf224e4bb85bef3c51cc956a",
+      "bytes": 25434
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_FELYA_27_Gross_Klein_A4-480.webp",
+      "sha256": "8764de9cd112e8ec254f56866bbe761b64f7a51e3e1c4efe5926f0d34369d5d5",
+      "bytes": 55044
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_FELYA_27_Gross_Klein_A4-960.webp",
+      "sha256": "74ece62fa700707cf02dc99abfa363468bb76c86613850cfb776db3893d39cbd",
+      "bytes": 105448
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_FELYA_28_Rahmengruppen_A4-240.webp",
+      "sha256": "4cd2548a3032e39799a48f703f560e7666d37a170953a75dab98330d307d18d7",
+      "bytes": 2026
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_FELYA_28_Rahmengruppen_A4-480.webp",
+      "sha256": "b7bd74b96fae444d289eeb322ea9f00fbc1ef0ec2e5be94f9d236f629e4f8b31",
+      "bytes": 4486
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_FELYA_28_Rahmengruppen_A4-960.webp",
+      "sha256": "6e20a5fd13e22c0843ee7a08a851bfe9579f94347739976e76caa91fc55db9da",
+      "bytes": 9936
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_Pattern_01_A4_Hochkant_Schwarz_Weiss-240.webp",
+      "sha256": "9565db4c529c29f0ef7bcc12eb8d84c7f1646452788cd3608844a75f634494d2",
+      "bytes": 23780
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_Pattern_01_A4_Hochkant_Schwarz_Weiss-480.webp",
+      "sha256": "a89aa9a6dff10281e5bb165487a1ef1e8e60204bbfeb6bfd46c70ae9f14d157e",
+      "bytes": 49348
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_Pattern_01_A4_Hochkant_Schwarz_Weiss-960.webp",
+      "sha256": "5cf4dddf3996cb7de067947b13913df34a0fe5be99231c530b3c78078754a982",
+      "bytes": 99794
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_Pattern_02_Dicht_A4-240.webp",
+      "sha256": "a5a993a3fae6b58947eaa739705f7494cb86dc8d078cc7278b11753391cc172f",
+      "bytes": 14222
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_Pattern_02_Dicht_A4-480.webp",
+      "sha256": "84d4ec78631b2b27aeb90a70fb4c0d77687d7d84a5ec791d85b431bdfac38056",
+      "bytes": 10534
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_Pattern_02_Dicht_A4-960.webp",
+      "sha256": "a585ce1c3e367557c30bc7e47bf923617431eadce10bfa51c1107ce6b1c47f78",
+      "bytes": 21634
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_Pattern_03_Rotation_A4-240.webp",
+      "sha256": "d7fd6c65f1837df9ec80fad27ccb6b28987936fc5e186b2109cae0a6d207bc93",
+      "bytes": 31782
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_Pattern_03_Rotation_A4-480.webp",
+      "sha256": "cfca0c8e19d1e987439a067183b33d314164e561f5ce1c17d6c7c6d7fe817b1f",
+      "bytes": 68142
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_Pattern_03_Rotation_A4-960.webp",
+      "sha256": "04bdccb747a4103ef1f63d58b20fe251800b79b65f4b001a47a8e6cd1ba20e06",
+      "bytes": 140498
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_Pattern_04_Spirale_A4-240.webp",
+      "sha256": "77b2a1110870796a23b9c21fb81ea73d0bbbca815742b029594293c573e48219",
+      "bytes": 26574
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_Pattern_04_Spirale_A4-480.webp",
+      "sha256": "9aa68d0a82bde856011ab565a5d919faec4bc663854dcfa82cea8f962a7befff",
+      "bytes": 59056
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_Pattern_04_Spirale_A4-960.webp",
+      "sha256": "7f572bb8a5850ab9eeacc16bc4e7174f9059b5944c88d8b652c94b875c5c51a9",
+      "bytes": 122888
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_Pattern_05_Spirale_Zentrum_A4-240.webp",
+      "sha256": "a16319ca6a0158dc636b38df709a6a56a1272f634a55238f315f459e873b9e32",
+      "bytes": 27270
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_Pattern_05_Spirale_Zentrum_A4-480.webp",
+      "sha256": "cf6b2cce2e7844baaf5f6e075dffec537abfa7105c15b6fe7331c49611af32fa",
+      "bytes": 60860
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_Pattern_05_Spirale_Zentrum_A4-960.webp",
+      "sha256": "b5f8ee03a09af72b80f52416f62dae4ed2f5642eca5d6c4af7727c3acf14714f",
+      "bytes": 127392
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_Pattern_06_Spirale_Fliessender_Start_A4-240.webp",
+      "sha256": "4ec90a0de2c28de3b9038e5d95d7bbc97f91f7d5ec00ea95bea212a2b3741eb6",
+      "bytes": 22566
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_Pattern_06_Spirale_Fliessender_Start_A4-480.webp",
+      "sha256": "2064b496dbed2067160ef0745c16564ba106ba76244a3971e269a8ee1eba6a4b",
+      "bytes": 53296
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_Pattern_06_Spirale_Fliessender_Start_A4-960.webp",
+      "sha256": "49a1e5dd8178b6f31fbdf8cf9ca27041b9733428a989e785432a5a303cf72fec",
+      "bytes": 106066
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_Pattern_07_Spirale_Kompakt_A4-240.webp",
+      "sha256": "ad641b9ff074afccc506c3f9b89727473278382272f1201c6a3a1ad972785850",
+      "bytes": 32350
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_Pattern_07_Spirale_Kompakt_A4-480.webp",
+      "sha256": "33b2cae03f0b2325821ed306671588f9d6a6f6340c92305bfad1885a2276d2c6",
+      "bytes": 70396
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_Pattern_07_Spirale_Kompakt_A4-960.webp",
+      "sha256": "4e9de8ba35bd5d9e18d6379b5aa0ffe78dcf01db340c094a137f64943702ef9c",
+      "bytes": 146144
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_Pattern_08_Kreisrhythmus_A4-240.webp",
+      "sha256": "19c1885b3c64cb34ff27f7248c451d73b40ddc18f74bf66ecea7a400560e284b",
+      "bytes": 34576
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_Pattern_08_Kreisrhythmus_A4-480.webp",
+      "sha256": "804dc8d41b26b50d0953e2cc22f9667bf631200750527cd3ba49177a75fed691",
+      "bytes": 75066
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_Pattern_08_Kreisrhythmus_A4-960.webp",
+      "sha256": "c8343edf45dc73ba4c169064f7a9412c08e41885dc0fca115b21c1dbf696cbc8",
+      "bytes": 156344
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_Pattern_09_Vierergruppen_Rekonstruktion_A4-240.webp",
+      "sha256": "3ce81f406bf712ce04d7db85194806b00637d3f2fa1646325221acecfceaa924",
+      "bytes": 28416
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_Pattern_09_Vierergruppen_Rekonstruktion_A4-480.webp",
+      "sha256": "4fe71e884843b04f845f960346d7d24123d4bed8438ea829b28716821dc7c399",
+      "bytes": 61374
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_Pattern_09_Vierergruppen_Rekonstruktion_A4-960.webp",
+      "sha256": "a950291ad07d67d08d5df9f199f9391f56699831b2c46b762ace854149c01f03",
+      "bytes": 127446
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_Pattern_10_Dreiergruppen_A4-240.webp",
+      "sha256": "d1a3b72e12c40d1c11b8d93b945920fb514d40eecd6e8b81191cc5c0bcd124cc",
+      "bytes": 20202
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_Pattern_10_Dreiergruppen_A4-480.webp",
+      "sha256": "49aef31f73fefd65cd3a0ba7ee835f706768fff80395fd50d587672bbacafad8",
+      "bytes": 45308
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_Pattern_10_Dreiergruppen_A4-960.webp",
+      "sha256": "5bb536b2b39b471a2196e8a45eb279342decdd3dcae9c0a99cdc6e7ba0273f5b",
+      "bytes": 94566
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_Pattern_11_Sechser_Rosetten_A4-240.webp",
+      "sha256": "1934cc4e32c50818d624031ff8aca47549e8fd353a127eb82526cbfdaeaf7a4b",
+      "bytes": 8070
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_Pattern_11_Sechser_Rosetten_A4-480.webp",
+      "sha256": "faeae6ed0107bc64d5e0a0f8cf615d4fcfd5adaf5af926183bc3b5f95e27cf25",
+      "bytes": 18146
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_Pattern_11_Sechser_Rosetten_A4-960.webp",
+      "sha256": "a547038ddce9005768f6e2be29b849afe96382289f02a5428113c824e3c73bea",
+      "bytes": 38200
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_Pattern_12_Freie_Streuung_A4-240.webp",
+      "sha256": "87b7573888c9d3be42f3e4886f32cfb6eccf860d60bd26f0972c9f0b1147b030",
+      "bytes": 23642
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_Pattern_12_Freie_Streuung_A4-480.webp",
+      "sha256": "3cb8848915e44d7df63b3d8c934a442a6ab3d7a5c84f41448e28b183757005bf",
+      "bytes": 54678
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_Pattern_12_Freie_Streuung_A4-960.webp",
+      "sha256": "3e8c7bbe6d67774b6872929d52250bfca108dfd6c4b231656e51101bc03c49bf",
+      "bytes": 110414
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_Pattern_13_Organische_Inseln_A4-240.webp",
+      "sha256": "fa56abf5fac0c1fc5890b5c9b29ab5e0c68d93fb3e5212f290cd2057616ffc8a",
+      "bytes": 16328
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_Pattern_13_Organische_Inseln_A4-480.webp",
+      "sha256": "7b091a8d3b5bd84651765be0294d0ebe97482a46fe0b323be28315fe23dbf86c",
+      "bytes": 38528
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_Pattern_13_Organische_Inseln_A4-960.webp",
+      "sha256": "ffa99c94f8b74ae70e7bcacc7d11f013c455bdccdf201a356bb99329a0d4112d",
+      "bytes": 82948
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_Pattern_14_Wellenbaender_A4-240.webp",
+      "sha256": "9527d5e711fdf7ca8147a8a33f43f4b7b1d9cd34112bc07d64b2527472f08684",
+      "bytes": 27126
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_Pattern_14_Wellenbaender_A4-480.webp",
+      "sha256": "6cf2561db44847955370fc4577c7db8ea54ff647c395f1275718891be1a38d66",
+      "bytes": 59028
+    },
+    {
+      "path": "07_Pyra-Presentation/assets/pattern-previews/V4_Pyra_Pattern_14_Wellenbaender_A4-960.webp",
+      "sha256": "ca26c6046915c7f04e3f21452908551dcafc177d533e932a4ad79ba655b87426",
+      "bytes": 124168
+    },
+    {
       "path": "07_Pyra-Presentation/continuous-corners.js",
       "sha256": "08d11d47ddff5682ea37bccbe53fc75a40dab0773b581bdb53a0fcc0bbd56033",
       "bytes": 3071
     },
     {
       "path": "07_Pyra-Presentation/index.html",
-      "sha256": "a208e271478d0b62bd0e699a9f29a46a8997f48790bfb4574cb8d336eb9de292",
-      "bytes": 75847
+      "sha256": "600503cad173785eb231baab5bacf1c3916da4975b57265e44bb78ed2d1641ab",
+      "bytes": 80418
     },
     {
       "path": "07_Pyra-Presentation/output/pdf/FELYA_Designentwicklung_Rebranding_A4.pdf",
@@ -509,13 +1109,15 @@
     },
     {
       "path": "index.html",
-      "sha256": "ca0068f09e2042df9215990064b09bdc3f44ada81001da41de74cb963ec81ee7",
-      "bytes": 75885
+      "sha256": "dc096941bdced17c19e956c48e791c80e08450d60e81cc98f5592c15917549da",
+      "bytes": 80456
     }
   ],
   "sourcePath": "07_Pyra-Presentation/",
   "publicRoute": "/pyra-rebrand/",
   "canonicalUrl": "https://brand.felya.com/pyra-rebrand/",
   "sharingSourceCommit": "a568e03e0025140df0716095354223793126ad04",
-  "sharingSourcePath": "07_Pyra-Presentation/sharing/"
+  "sharingSourcePath": "07_Pyra-Presentation/sharing/",
+  "mobileSourceCommit": "52988337165fd04715828635c9229acb07a1ac10",
+  "mobileSourcePath": "07_Pyra-Presentation/assets/pattern-previews/"
 }
